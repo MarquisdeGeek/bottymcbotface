@@ -1,0 +1,7 @@
+consumer:
+ key: ADD_YOURS_HERE
+ secret: ADD_YOURS_HERE
+
+access:
+ token: ADD_YOURS_HERE
+ secret: ADD_YOURS_HERE
